@@ -1,2 +1,8 @@
-# VirtualR
-VirtualR makes VR development easy with a drag-and-drop interface, multi-platform support, and built-in templates. Enjoy real-time previews, collaborate seamlessly with your team, and gain insights via an integrated analytics dashboard. Perfect for quickly building immersive VR experiences.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
